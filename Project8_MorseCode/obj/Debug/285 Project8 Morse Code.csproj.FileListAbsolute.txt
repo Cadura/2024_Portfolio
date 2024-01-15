@@ -1,0 +1,22 @@
+C:\Users\david\OneDrive\Desktop\CIS285C#\285Projects\285 Project8 Morse Code\bin\Debug\285 Project8 Morse Code.exe.config
+C:\Users\david\OneDrive\Desktop\CIS285C#\285Projects\285 Project8 Morse Code\bin\Debug\285 Project8 Morse Code.exe
+C:\Users\david\OneDrive\Desktop\CIS285C#\285Projects\285 Project8 Morse Code\bin\Debug\285 Project8 Morse Code.pdb
+C:\Users\david\OneDrive\Desktop\CIS285C#\285Projects\285 Project8 Morse Code\obj\Debug\285 Project8 Morse Code.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\CIS285C#\285Projects\285 Project8 Morse Code\obj\Debug\285 Project8 Morse Code.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\OneDrive\Desktop\CIS285C#\285Projects\285 Project8 Morse Code\obj\Debug\_285_Project8_Morse_Code.frmMain.resources
+C:\Users\david\OneDrive\Desktop\CIS285C#\285Projects\285 Project8 Morse Code\obj\Debug\_285_Project8_Morse_Code.Properties.Resources.resources
+C:\Users\david\OneDrive\Desktop\CIS285C#\285Projects\285 Project8 Morse Code\obj\Debug\285 Project8 Morse Code.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Desktop\CIS285C#\285Projects\285 Project8 Morse Code\obj\Debug\285 Project8 Morse Code.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\CIS285C#\285Projects\285 Project8 Morse Code\obj\Debug\285 Project8 Morse Code.exe
+C:\Users\david\OneDrive\Desktop\CIS285C#\285Projects\285 Project8 Morse Code\obj\Debug\285 Project8 Morse Code.pdb
+C:\Users\Chris\Downloads\285 Project8 Morse Code\285 Project8 Morse Code\bin\Debug\285 Project8 Morse Code.exe.config
+C:\Users\Chris\Downloads\285 Project8 Morse Code\285 Project8 Morse Code\bin\Debug\285 Project8 Morse Code.exe
+C:\Users\Chris\Downloads\285 Project8 Morse Code\285 Project8 Morse Code\bin\Debug\285 Project8 Morse Code.pdb
+C:\Users\Chris\Downloads\285 Project8 Morse Code\285 Project8 Morse Code\obj\Debug\285 Project8 Morse Code.csproj.AssemblyReference.cache
+C:\Users\Chris\Downloads\285 Project8 Morse Code\285 Project8 Morse Code\obj\Debug\285 Project8 Morse Code.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chris\Downloads\285 Project8 Morse Code\285 Project8 Morse Code\obj\Debug\_285_Project8_Morse_Code.frmMain.resources
+C:\Users\Chris\Downloads\285 Project8 Morse Code\285 Project8 Morse Code\obj\Debug\_285_Project8_Morse_Code.Properties.Resources.resources
+C:\Users\Chris\Downloads\285 Project8 Morse Code\285 Project8 Morse Code\obj\Debug\285 Project8 Morse Code.csproj.GenerateResource.cache
+C:\Users\Chris\Downloads\285 Project8 Morse Code\285 Project8 Morse Code\obj\Debug\285 Project8 Morse Code.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Downloads\285 Project8 Morse Code\285 Project8 Morse Code\obj\Debug\285 Project8 Morse Code.exe
+C:\Users\Chris\Downloads\285 Project8 Morse Code\285 Project8 Morse Code\obj\Debug\285 Project8 Morse Code.pdb
