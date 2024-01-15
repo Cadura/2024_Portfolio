@@ -1,0 +1,13 @@
+C:\Users\Chris\Documents\School\Wallace\Visual Basic\Projects\Project 10\Project10\obj\Debug\Project10.vbproj.AssemblyReference.cache
+C:\Users\Chris\Documents\School\Wallace\Visual Basic\Projects\Project 10\Project10\obj\Debug\Project10.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Chris\Documents\School\Wallace\Visual Basic\Projects\Project 10\Project10\obj\Debug\Project10.MainForm.resources
+C:\Users\Chris\Documents\School\Wallace\Visual Basic\Projects\Project 10\Project10\obj\Debug\Project10.Resources.resources
+C:\Users\Chris\Documents\School\Wallace\Visual Basic\Projects\Project 10\Project10\obj\Debug\Project10.vbproj.GenerateResource.cache
+C:\Users\Chris\Documents\School\Wallace\Visual Basic\Projects\Project 10\Project10\obj\Debug\Project10.vbproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\School\Wallace\Visual Basic\Projects\Project 10\Project10\bin\Debug\Project10.exe.config
+C:\Users\Chris\Documents\School\Wallace\Visual Basic\Projects\Project 10\Project10\bin\Debug\Project10.exe
+C:\Users\Chris\Documents\School\Wallace\Visual Basic\Projects\Project 10\Project10\bin\Debug\Project10.pdb
+C:\Users\Chris\Documents\School\Wallace\Visual Basic\Projects\Project 10\Project10\bin\Debug\Project10.xml
+C:\Users\Chris\Documents\School\Wallace\Visual Basic\Projects\Project 10\Project10\obj\Debug\Project10.exe
+C:\Users\Chris\Documents\School\Wallace\Visual Basic\Projects\Project 10\Project10\obj\Debug\Project10.xml
+C:\Users\Chris\Documents\School\Wallace\Visual Basic\Projects\Project 10\Project10\obj\Debug\Project10.pdb
