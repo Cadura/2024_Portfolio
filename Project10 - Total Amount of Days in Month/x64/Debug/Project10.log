@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project10.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Project11.cpp
+C:\Users\Chris\Documents\School\Wallace\C++\Projects\Project 10\Project10\Project11.cpp(15,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project10.vcxproj -> C:\Users\Chris\Documents\School\Wallace\C++\Projects\Project 10\Project10\x64\Debug\Project11.exe
