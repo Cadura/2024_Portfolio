@@ -1,0 +1,11 @@
+C:\Users\Chris\Documents\School\Projects with Jin\285 Project5 NumberGuessing Demo\285 Project5 NumberGuessing JINCHO\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\School\Projects with Jin\285 Project5 NumberGuessing Demo\285 Project5 NumberGuessing JINCHO\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chris\Documents\School\Projects with Jin\285 Project5 NumberGuessing Demo\285 Project5 NumberGuessing JINCHO\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Chris\Documents\School\Projects with Jin\285 Project5 NumberGuessing Demo\285 Project5 NumberGuessing JINCHO\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\School\Projects with Jin\285 Project5 NumberGuessing Demo\285 Project5 NumberGuessing JINCHO\bin\Debug\Project5_NumberGuesser.exe.config
+C:\Users\Chris\Documents\School\Projects with Jin\285 Project5 NumberGuessing Demo\285 Project5 NumberGuessing JINCHO\bin\Debug\Project5_NumberGuesser.exe
+C:\Users\Chris\Documents\School\Projects with Jin\285 Project5 NumberGuessing Demo\285 Project5 NumberGuessing JINCHO\bin\Debug\Project5_NumberGuesser.pdb
+C:\Users\Chris\Documents\School\Projects with Jin\285 Project5 NumberGuessing Demo\285 Project5 NumberGuessing JINCHO\obj\Debug\Project5_NumberGuesser.Properties.Resources.resources
+C:\Users\Chris\Documents\School\Projects with Jin\285 Project5 NumberGuessing Demo\285 Project5 NumberGuessing JINCHO\obj\Debug\Project5_NumberGuesser.exe
+C:\Users\Chris\Documents\School\Projects with Jin\285 Project5 NumberGuessing Demo\285 Project5 NumberGuessing JINCHO\obj\Debug\Project5_NumberGuesser.pdb
+C:\Users\Chris\Documents\School\Projects with Jin\285 Project5 NumberGuessing Demo\285 Project5 NumberGuessing JINCHO\obj\Debug\Project5_NumberGuesser.frmMain.resources
